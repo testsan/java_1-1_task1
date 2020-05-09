@@ -8,7 +8,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* <https://github.com/testsan/java_1-1_task1.git>
+* <https://github.com/testsan/java_1-1_task1/issues/1#issue-615181034>
+* <https://github.com/testsan/java_1-1_task1/issues/2#issue-615231366>
+* <https://github.com/testsan/java_1-1_task1/issues/3#issue-615231769>
 
 ## Описание процесса тестирования
 
