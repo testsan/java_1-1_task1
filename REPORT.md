@@ -8,9 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* Result for 80b427f8-92cd-3aae-ba04-03927fbe17c6: FAIL
-* Result for 387eedc6-12e9-3b32-9881-63b6b5e85317: FAIL
-* Result for 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1: OK
+* <https://github.com/testsan/java_1-1_task1.git>
 
 ## Описание процесса тестирования
 
